@@ -54,9 +54,9 @@ node seqular-song-composer/scripts/validate.js my-song.seqular.json
 ✓ Valid Seqular project (7 sections, 1 note tracks)
 ```
 
-### Import into Seqular
+### Import a project into Seqular
 
-Open [seqular.app](https://seqular.app), tap **Import**, and select the `.seqular.json` file.
+Open [seqular.com](https://seqular.com), tap **Import**, and select the `.seqular.json` file.
 
 ## Learn more
 

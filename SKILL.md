@@ -1,13 +1,15 @@
 ---
-name: Seqular Song Composer
-description: >
-  Compose complete songs as Seqular project files (.seqular.json).
-  Produces valid JSON with sections, chord progressions, instrument voicings,
-  styles, optional note tracks (melodies/solos), and lyrics — ready to import
-  into the Seqular web-based music sequencer.
-version: 1.0.0
-author: seqular
-tags: [music, composition, sequencer, songwriting, midi, json]
+name: "Seqular Song Composer"
+description: "Compose complete songs as Seqular project files (.seqular.json). Produces valid JSON with sections, chord progressions, instrument voicings, styles, optional note tracks (melodies/solos), and lyrics - ready to import into the Seqular web-based music sequencer."
+version: "1.0.0"
+author: "seqular"
+tags:
+  - music
+  - composition
+  - sequencer
+  - songwriting
+  - midi
+  - json
 ---
 
 # Seqular Song Composer

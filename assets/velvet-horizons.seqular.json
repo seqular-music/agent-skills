@@ -1,0 +1,1033 @@
+{
+  "version": "1.1",
+  "exportedAt": "2026-03-28T13:35:07.949Z",
+  "project": {
+    "id": "mn9f5v1f7n09bv1eg",
+    "name": "Velvet Horizons",
+    "bpm": 68,
+    "transpose": 0,
+    "timeSignature": [
+      4,
+      4
+    ],
+    "sections": [
+      {
+        "id": "section_intro",
+        "type": "intro",
+        "bars": 8,
+        "timeSignature": "4/4",
+        "chords": [
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ],
+          [
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ]
+        ],
+        "activeSlots": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "voices": {
+          "drums": "none",
+          "keys": "rhodes",
+          "guitar": "none",
+          "bass": "none"
+        },
+        "styles": {
+          "drums": "ballad",
+          "keys": "sustain",
+          "guitar": "sustain",
+          "bass": "sustain"
+        },
+        "lyrics": "",
+        "order": 0
+      },
+      {
+        "id": "section_verse1",
+        "type": "verse",
+        "bars": 8,
+        "timeSignature": "4/4",
+        "chords": [
+          [
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7"
+          ],
+          [
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7"
+          ],
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ]
+        ],
+        "activeSlots": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "voices": {
+          "drums": "none",
+          "keys": "rhodes",
+          "guitar": "acoustic",
+          "bass": "fingered"
+        },
+        "styles": {
+          "drums": "ballad",
+          "keys": "sustain",
+          "guitar": "arpeggio",
+          "bass": "sustain"
+        },
+        "lyrics": "Somewhere past the evening haze\nLight dissolves in golden rays\nNo need to find the way back home\nJust breathe and let the silence grow",
+        "order": 1
+      },
+      {
+        "id": "section_chorus1",
+        "type": "chorus",
+        "bars": 8,
+        "timeSignature": "4/4",
+        "chords": [
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7"
+          ],
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ]
+        ],
+        "activeSlots": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "voices": {
+          "drums": "acoustic",
+          "keys": "rhodes",
+          "guitar": "acoustic",
+          "bass": "fingered"
+        },
+        "styles": {
+          "drums": "ballad",
+          "keys": "sustain",
+          "guitar": "arpeggio",
+          "bass": "half"
+        },
+        "lyrics": "Drifting light through open skies\nNothing left to recognise\nWe are floating undefined\nLeaving all the weight behind",
+        "order": 2
+      },
+      {
+        "id": "section_verse2",
+        "type": "verse",
+        "bars": 8,
+        "timeSignature": "4/4",
+        "chords": [
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ],
+          [
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7"
+          ],
+          [
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7"
+          ],
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ]
+        ],
+        "activeSlots": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "voices": {
+          "drums": "none",
+          "keys": "harmonium",
+          "guitar": "acoustic",
+          "bass": "fingered"
+        },
+        "styles": {
+          "drums": "ballad",
+          "keys": "sustain",
+          "guitar": "folk",
+          "bass": "sustain"
+        },
+        "lyrics": "Colours bleed across the shore\nTime is just an open door\nEvery wave erases lines\nEvery breath a new design",
+        "order": 3
+      },
+      {
+        "id": "section_bridge",
+        "type": "bridge",
+        "bars": 4,
+        "timeSignature": "4/4",
+        "chords": [
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7"
+          ]
+        ],
+        "activeSlots": [
+          8,
+          8,
+          8,
+          8
+        ],
+        "voices": {
+          "drums": "none",
+          "keys": "rhodes",
+          "guitar": "none",
+          "bass": "fingered"
+        },
+        "styles": {
+          "drums": "ballad",
+          "keys": "sustain",
+          "guitar": "sustain",
+          "bass": "sustain"
+        },
+        "lyrics": "And if the morning never comes\nWe'll stay suspended in the hum",
+        "order": 4
+      },
+      {
+        "id": "section_chorus2",
+        "type": "chorus",
+        "bars": 8,
+        "timeSignature": "4/4",
+        "chords": [
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7",
+            "Em7"
+          ],
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7"
+          ]
+        ],
+        "activeSlots": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "voices": {
+          "drums": "percussion",
+          "keys": "rhodes",
+          "guitar": "acoustic",
+          "bass": "fingered"
+        },
+        "styles": {
+          "drums": "ballad",
+          "keys": "sustain",
+          "guitar": "arpeggio",
+          "bass": "half"
+        },
+        "lyrics": "Drifting light through open skies\nNothing left to recognise\nWe are floating undefined\nLeaving all the weight behind",
+        "order": 5
+      },
+      {
+        "id": "section_outro",
+        "type": "outro",
+        "bars": 8,
+        "timeSignature": "4/4",
+        "chords": [
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7",
+            "Fmaj7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7",
+            "Am7"
+          ],
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7",
+            "Dm7"
+          ],
+          [
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4",
+            "Gsus4"
+          ],
+          [
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7",
+            "Cmaj7"
+          ]
+        ],
+        "activeSlots": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "voices": {
+          "drums": "none",
+          "keys": "rhodes",
+          "guitar": "none",
+          "bass": "none"
+        },
+        "styles": {
+          "drums": "ballad",
+          "keys": "sustain",
+          "guitar": "sustain",
+          "bass": "sustain"
+        },
+        "lyrics": "",
+        "order": 6
+      }
+    ],
+    "noteTracks": [
+      {
+        "id": "rhodes_solo",
+        "name": "RHODES SOLO",
+        "category": "keys",
+        "voice": "rhodes",
+        "muted": false,
+        "notes": [
+          {
+            "midi": 72,
+            "startSlot": 68,
+            "durationSlots": 6
+          },
+          {
+            "midi": 71,
+            "startSlot": 76,
+            "durationSlots": 4
+          },
+          {
+            "midi": 69,
+            "startSlot": 82,
+            "durationSlots": 6
+          },
+          {
+            "midi": 67,
+            "startSlot": 90,
+            "durationSlots": 4
+          },
+          {
+            "midi": 65,
+            "startSlot": 96,
+            "durationSlots": 8
+          },
+          {
+            "midi": 67,
+            "startSlot": 106,
+            "durationSlots": 4
+          },
+          {
+            "midi": 69,
+            "startSlot": 112,
+            "durationSlots": 6
+          },
+          {
+            "midi": 72,
+            "startSlot": 120,
+            "durationSlots": 8
+          },
+          {
+            "midi": 76,
+            "startSlot": 132,
+            "durationSlots": 6
+          },
+          {
+            "midi": 74,
+            "startSlot": 140,
+            "durationSlots": 4
+          },
+          {
+            "midi": 72,
+            "startSlot": 146,
+            "durationSlots": 6
+          },
+          {
+            "midi": 69,
+            "startSlot": 154,
+            "durationSlots": 4
+          },
+          {
+            "midi": 72,
+            "startSlot": 160,
+            "durationSlots": 8
+          },
+          {
+            "midi": 74,
+            "startSlot": 170,
+            "durationSlots": 4
+          },
+          {
+            "midi": 76,
+            "startSlot": 176,
+            "durationSlots": 6
+          },
+          {
+            "midi": 74,
+            "startSlot": 184,
+            "durationSlots": 8
+          },
+          {
+            "midi": 69,
+            "startSlot": 196,
+            "durationSlots": 6
+          },
+          {
+            "midi": 72,
+            "startSlot": 204,
+            "durationSlots": 4
+          },
+          {
+            "midi": 74,
+            "startSlot": 210,
+            "durationSlots": 6
+          },
+          {
+            "midi": 72,
+            "startSlot": 218,
+            "durationSlots": 4
+          },
+          {
+            "midi": 69,
+            "startSlot": 224,
+            "durationSlots": 8
+          },
+          {
+            "midi": 67,
+            "startSlot": 234,
+            "durationSlots": 6
+          },
+          {
+            "midi": 65,
+            "startSlot": 242,
+            "durationSlots": 4
+          },
+          {
+            "midi": 67,
+            "startSlot": 248,
+            "durationSlots": 8
+          },
+          {
+            "midi": 65,
+            "startSlot": 260,
+            "durationSlots": 6
+          },
+          {
+            "midi": 67,
+            "startSlot": 268,
+            "durationSlots": 4
+          },
+          {
+            "midi": 69,
+            "startSlot": 274,
+            "durationSlots": 6
+          },
+          {
+            "midi": 72,
+            "startSlot": 282,
+            "durationSlots": 6
+          },
+          {
+            "midi": 76,
+            "startSlot": 292,
+            "durationSlots": 6
+          },
+          {
+            "midi": 74,
+            "startSlot": 300,
+            "durationSlots": 4
+          },
+          {
+            "midi": 72,
+            "startSlot": 306,
+            "durationSlots": 6
+          },
+          {
+            "midi": 69,
+            "startSlot": 314,
+            "durationSlots": 4
+          },
+          {
+            "midi": 72,
+            "startSlot": 320,
+            "durationSlots": 8
+          },
+          {
+            "midi": 74,
+            "startSlot": 330,
+            "durationSlots": 6
+          },
+          {
+            "midi": 76,
+            "startSlot": 338,
+            "durationSlots": 4
+          },
+          {
+            "midi": 79,
+            "startSlot": 344,
+            "durationSlots": 8
+          },
+          {
+            "midi": 76,
+            "startSlot": 356,
+            "durationSlots": 8
+          },
+          {
+            "midi": 74,
+            "startSlot": 368,
+            "durationSlots": 6
+          },
+          {
+            "midi": 72,
+            "startSlot": 378,
+            "durationSlots": 8
+          },
+          {
+            "midi": 69,
+            "startSlot": 390,
+            "durationSlots": 6
+          },
+          {
+            "midi": 67,
+            "startSlot": 400,
+            "durationSlots": 8
+          },
+          {
+            "midi": 72,
+            "startSlot": 412,
+            "durationSlots": 12
+          }
+        ]
+      }
+    ],
+    "visualization": {
+      "showChords": false,
+      "showInstruments": false
+    },
+    "mixerSettings": {
+      "drums": {
+        "volume": 75,
+        "reverb": 60,
+        "delay": 30,
+        "distortion": 0,
+        "compressor": 0,
+        "pan": 0
+      },
+      "keys": {
+        "volume": 23,
+        "reverb": 70,
+        "delay": 45,
+        "distortion": 0,
+        "compressor": 0,
+        "pan": 5
+      },
+      "guitar": {
+        "volume": 22,
+        "reverb": 60,
+        "delay": 35,
+        "distortion": 0,
+        "compressor": 0,
+        "pan": -15
+      },
+      "bass": {
+        "volume": 30,
+        "reverb": 30,
+        "delay": 10,
+        "distortion": 0,
+        "compressor": 0,
+        "pan": 0
+      },
+      "vocals": {
+        "volume": 80,
+        "reverb": 20,
+        "delay": 0,
+        "distortion": 0,
+        "compressor": 0
+      },
+      "additionalTracks": {
+        "volume": 90,
+        "reverb": 75,
+        "delay": 50,
+        "distortion": 0,
+        "compressor": 0,
+        "pan": 0
+      }
+    },
+    "createdAt": "2026-03-27T00:00:00.000Z",
+    "updatedAt": "2026-03-28T13:17:24.414Z"
+  },
+  "tracks": []
+}

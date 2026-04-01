@@ -61,5 +61,4 @@ Open [seqular.com](https://seqular.com), tap **Import**, and select the `.sequla
 ## Learn more
 
 - [Agent Skills specification](https://agentskills.io/specification)
-- [Seqular app](https://seqular.app)
 

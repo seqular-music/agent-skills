@@ -1,6 +1,6 @@
 # Seqular Song Composer — Agent Skill
 
-An [Agent Skill](https://agentskills.io) that teaches LLMs how to compose complete songs for the [Seqular](https://seqular.app) web-based music sequencer.
+An [Agent Skill](https://agentskills.io) that teaches LLMs how to compose complete songs for the [Seqular](https://seqular.com) web-based music sequencer.
 
 Give this skill to any LLM and ask it to write a song. It will produce a valid `.seqular.json` file you can import directly into Seqular.
 

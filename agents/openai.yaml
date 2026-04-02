@@ -1,0 +1,6 @@
+interface:
+  display_name: "Seqular Song Composer"
+  short_description: "Compose complete songs as Seqular project files (.seqular.json)"
+  icon_small: "../assets/seqular.svg"
+  icon_large: "../assets/seqular.png"
+  default_prompt: "Compose a Seqular song and return a valid .seqular.json project."
